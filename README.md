@@ -40,7 +40,7 @@ The Currency Converter project is a web application that allows users to convert
 - [Currency Converter API](https://www.currencyconverterapi.com/) - Used for real-time exchange rates.
 
 ## Demo
-A live demo of the project is available at [Demo Link](https://your-demo-link.com).
+A live demo of the project is available at [https://mayurp112.github.io/CurrencyConvertorJs/](https://mayurp112.github.io/CurrencyConvertorJs/).
 
 ## Contributing
 Feel free to contribute to the project. Follow these steps:
